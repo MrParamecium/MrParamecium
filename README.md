@@ -1,4 +1,4 @@
-# Hi, I'm Haoxiang 👋
+# Hi, I'm Harrison 👋
 
 <p align="center">
   <picture>
