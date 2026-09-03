@@ -16,9 +16,10 @@
 - 🔭 I'm currently working on **Agentic Trading Lab** and **Fourier Tutor Agent**
 - 🌱 I'm strengthening **data structures, algorithms, databases, and backend engineering fundamentals**
 - 👯 I'm open to serious collaboration on **AI application and backend projects**
-- 💬 Ask me about **A-share backtesting, iFinD integration, and LLM application workflows**
+- 🛠️ I build **end-to-end AI products across trading systems, LLM infrastructure, and personalized learning**
 - 📫 Reach me at [2739441541@qq.com](mailto:2739441541@qq.com)
-- ⚡ Outside code: **basketball, travel, reading, and guitar**
+- 📕 Xiaohongshu: **2201202989**
+- ⚡ Outside code: **photography, basketball, travel, reading, and guitar**
 
 ---
 
