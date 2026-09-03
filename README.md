@@ -43,22 +43,22 @@
 
 ### [Agentic Trading Lab](https://github.com/Open-Finance-Lab/AgenticTrading) · Major contributor
 
-An open-source experimental platform for building, backtesting, and inspecting LLM-powered trading agents.
+An open-source platform for building, backtesting, and evaluating LLM-powered trading agents.
 
-- Authored **40 merged pull requests** across A-share backtesting, LLM execution, Credits billing, database migrations, and regression testing.
-- Integrated iFinD market data with server-side token exchange, caching, and automatic refresh.
-- Built A-share execution rules and contributed controlled LLM-provider routing with reservation, settlement, and release of platform Credits.
-- Latest cited complete backend regression: **3,943 tests passed**.
+- Authored **40 merged pull requests** spanning trading execution, LLM infrastructure, Credits billing, analytics, database migrations, frontend workflows, and regression testing.
+- Delivered iFinD-backed A-share support with T+1 settlement, board-lot, transaction-cost, and market-rule enforcement; also integrated vn.py CTA and TradingAgents workflows.
+- Built encrypted BYOK credential management, unified multi-provider execution, automatic provider failover, and auditable Credits reservation and settlement.
+- Added privacy-safe Admin Analytics and hardened pipeline failure recovery; latest complete backend regression: **3,943 tests passed**.
 
 [Live demo](https://agentic-trading-lab.vercel.app/) · [My merged pull requests](https://github.com/Open-Finance-Lab/AgenticTrading/pulls?q=is%3Apr+author%3AMrParamecium+is%3Amerged)
 
 ### [Fourier Tutor Agent](https://github.com/MrParamecium/Fourier) · Independent project
 
-A browser-based tutor for signal processing and linear systems, connecting textbook materials with guided LLM-assisted learning.
+An independently developed LLM-powered tutor for signal processing and linear systems, combining traceable course materials with interactive learning.
 
-- Built the browser interface and Node.js/WebSocket bridge.
-- Organized OCR, textbook pages, figures, formulas, and chapter metadata as traceable learning sources.
-- Added guided exercises, understanding checks, progress tracking, and conversation history.
+- Built and deployed the browser application, Node.js/WebSocket bridge, authentication flow, and PostgreSQL-backed user state.
+- Organized textbook OCR, pages, figures, formulas, and chapter metadata into traceable lesson context.
+- Added intent routing, personalized memory, mistake tracking, conversation recovery, guided exercises, and interactive signal-system demonstrations.
 
 [Live demo](https://aquarius-seven.vercel.app)
 
