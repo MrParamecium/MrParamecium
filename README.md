@@ -18,7 +18,7 @@
 - 👯 I'm open to serious collaboration on **AI application and backend projects**
 - 🛠️ I build **end-to-end AI products across trading systems, LLM infrastructure, and personalized learning**
 - 📫 Reach me at [2739441541@qq.com](mailto:2739441541@qq.com)
-- 📕 Xiaohongshu: **2201202989**
+- 📕 [Xiaohongshu](https://xhslink.cn/m/90YVZcP0NJu)
 - ⚡ Outside code: **photography, basketball, travel, reading, and guitar**
 
 ---
