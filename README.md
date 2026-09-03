@@ -68,11 +68,14 @@ A browser-based tutor for signal processing and linear systems, connecting textb
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
-    <img height="165" src="./profile/stats-light.svg" alt="Haoxiang Cheng's GitHub statistics">
+    <img src="./profile/stats-light.svg" alt="Haoxiang Cheng's GitHub statistics">
   </picture>
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
-    <img height="165" src="./profile/top-langs-light.svg" alt="Languages used across public repositories">
+    <img src="./profile/top-langs-light.svg" alt="Languages used across public repositories">
   </picture>
 </p>
 
