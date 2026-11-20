@@ -45,16 +45,16 @@
 
 An open-source platform for building, backtesting, and evaluating LLM-powered trading agents.
 
-- Authored **40 merged pull requests** spanning trading execution, LLM infrastructure, Credits billing, analytics, database migrations, frontend workflows, and regression testing.
+- Authored **74 merged pull requests** spanning trading execution, LLM infrastructure, Credits billing, analytics, database migrations, frontend workflows, and regression testing.
 - Delivered iFinD-backed A-share support with T+1 settlement, board-lot, transaction-cost, and market-rule enforcement; also integrated vn.py CTA and TradingAgents workflows.
 - Built encrypted BYOK credential management, unified multi-provider execution, automatic provider failover, and auditable Credits reservation and settlement.
 - Added privacy-safe Admin Analytics and hardened pipeline failure recovery; latest complete backend regression: **3,943 tests passed**.
 
 [Live demo](https://agentic-trading-lab.vercel.app/) · [My merged pull requests](https://github.com/Open-Finance-Lab/AgenticTrading/pulls?q=is%3Apr+author%3AMrParamecium+is%3Amerged)
 
-### [Fourier Tutor Agent](https://github.com/MrParamecium/Fourier) · Independent project
+### [Fourier Tutor Agent](https://github.com/MrParamecium/Fourier) · Tech lead
 
-An independently developed LLM-powered tutor for signal processing and linear systems, combining traceable course materials with interactive learning.
+An LLM-powered tutor for signal processing and linear systems, combining traceable course materials with interactive learning; tested in a Columbia University Signals and Systems class.
 
 - Built and deployed the browser application, Node.js/WebSocket bridge, authentication flow, and PostgreSQL-backed user state.
 - Organized textbook OCR, pages, figures, formulas, and chapter metadata into traceable lesson context.
